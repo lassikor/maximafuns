@@ -1,1 +1,1 @@
-square(%_num) := %_num^2;
+square(num) := num^2;
